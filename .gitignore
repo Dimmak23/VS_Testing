@@ -1,2 +1,5 @@
 build
 MVSC_bin
+*.vcxproj*
+x64
+.vs
