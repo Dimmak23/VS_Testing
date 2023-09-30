@@ -3,3 +3,4 @@ MVSC_bin
 *.vcxproj*
 x64
 .vs
+Tests/*.config
