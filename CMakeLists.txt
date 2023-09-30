@@ -12,3 +12,5 @@ add_executable(
 
 add_subdirectory(tested_headers)
 target_link_libraries(${PROJECT_NAME} tested_headers)
+
+add_subdirectory(CMakeGTests)
